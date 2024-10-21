@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\bin\Debug\19 - Bloco de Notas Simples.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\bin\Debug\19 - Bloco de Notas Simples.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\bin\Debug\19 - Bloco de Notas Simples.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\_19___Bloco_de_Notas_Simples.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\_19___Bloco_de_Notas_Simples.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\19 - Bloco de Notas Simples.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\19 - Bloco de Notas Simples.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\19 - Bloco de Notas Simples.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\19 - Bloco de Notas Simples.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\19 - Bloco de Notas Simples\19 - Bloco de Notas Simples\obj\Debug\19 - Bloco de Notas Simples.csprojAssemblyReference.cache

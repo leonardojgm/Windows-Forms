@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\bin\Debug\09 - RichTextBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\bin\Debug\09 - RichTextBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\bin\Debug\09 - RichTextBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\_09___RichTextBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\_09___RichTextBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\09 - RichTextBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\09 - RichTextBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\09 - RichTextBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\09 - RichTextBox\09 - RichTextBox\obj\Debug\09 - RichTextBox.pdb

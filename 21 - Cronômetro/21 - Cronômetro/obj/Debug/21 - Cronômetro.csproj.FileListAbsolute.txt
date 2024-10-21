@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\bin\Debug\21 - Cronômetro.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\bin\Debug\21 - Cronômetro.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\bin\Debug\21 - Cronômetro.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\_21___Cronômetro.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\_21___Cronômetro.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\21 - Cronômetro.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\21 - Cronômetro.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\21 - Cronômetro.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\21 - Cronômetro\21 - Cronômetro\obj\Debug\21 - Cronômetro.pdb

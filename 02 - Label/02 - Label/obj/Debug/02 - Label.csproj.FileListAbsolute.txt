@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\bin\Debug\02 - Label.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\bin\Debug\02 - Label.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\bin\Debug\02 - Label.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\_02___Label.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\_02___Label.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\02 - Label.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\02 - Label.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\02 - Label.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\02 - Label\02 - Label\obj\Debug\02 - Label.pdb

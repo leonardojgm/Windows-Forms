@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\bin\Debug\15 - OpenFile.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\bin\Debug\15 - OpenFile.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\bin\Debug\15 - OpenFile.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\_15___OpenFile.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\_15___OpenFile.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\15 - OpenFile.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\15 - OpenFile.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\15 - OpenFile.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\15 - OpenFile\15 - OpenFile\obj\Debug\15 - OpenFile.pdb

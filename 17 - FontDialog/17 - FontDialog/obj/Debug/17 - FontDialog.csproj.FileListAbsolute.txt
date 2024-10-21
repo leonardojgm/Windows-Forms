@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\bin\Debug\17 - FontDialog.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\bin\Debug\17 - FontDialog.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\bin\Debug\17 - FontDialog.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\_17___FontDialog.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\_17___FontDialog.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\17 - FontDialog.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\17 - FontDialog.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\17 - FontDialog.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\17 - FontDialog\17 - FontDialog\obj\Debug\17 - FontDialog.pdb

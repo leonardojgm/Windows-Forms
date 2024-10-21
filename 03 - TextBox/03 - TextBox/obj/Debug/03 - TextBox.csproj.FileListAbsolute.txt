@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\bin\Debug\03 - TextBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\bin\Debug\03 - TextBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\bin\Debug\03 - TextBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\03 - TextBox.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\_03___TextBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\_03___TextBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\03 - TextBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\03 - TextBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\03 - TextBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\03 - TextBox\03 - TextBox\obj\Debug\03 - TextBox.pdb

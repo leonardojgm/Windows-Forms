@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\bin\Debug\08 - RadioButton.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\bin\Debug\08 - RadioButton.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\bin\Debug\08 - RadioButton.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\08 - RadioButton.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\_08___RadioButton.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\_08___RadioButton.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\08 - RadioButton.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\08 - RadioButton.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\08 - RadioButton.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\08 - RadioButton\08 - RadioButton\obj\Debug\08 - RadioButton.pdb

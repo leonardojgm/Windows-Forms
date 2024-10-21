@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\bin\Debug\04 - Form.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\bin\Debug\04 - Form.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\bin\Debug\04 - Form.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\_04___Form.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\_04___Form.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\04 - Form.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\04 - Form.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\04 - Form.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\04 - Form\04 - Form\obj\Debug\04 - Form.pdb

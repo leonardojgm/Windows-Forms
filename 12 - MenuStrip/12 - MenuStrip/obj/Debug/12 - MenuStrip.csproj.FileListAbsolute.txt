@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\bin\Debug\12 - MenuStrip.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\bin\Debug\12 - MenuStrip.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\bin\Debug\12 - MenuStrip.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\_12___MenuStrip.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\_12___MenuStrip.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\12 - MenuStrip.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\12 - MenuStrip.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\12 - MenuStrip.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\12 - MenuStrip\12 - MenuStrip\obj\Debug\12 - MenuStrip.pdb

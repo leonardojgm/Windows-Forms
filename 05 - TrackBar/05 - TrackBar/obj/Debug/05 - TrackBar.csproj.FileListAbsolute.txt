@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\bin\Debug\05 - TrackBar.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\bin\Debug\05 - TrackBar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\bin\Debug\05 - TrackBar.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\05 - TrackBar.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\_05___TrackBar.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\_05___TrackBar.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\05 - TrackBar.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\05 - TrackBar.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\05 - TrackBar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\05 - TrackBar\05 - TrackBar\obj\Debug\05 - TrackBar.pdb

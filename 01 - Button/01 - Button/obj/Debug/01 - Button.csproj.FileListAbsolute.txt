@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\bin\Debug\01 - Button.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\bin\Debug\01 - Button.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\bin\Debug\01 - Button.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\01 - Button.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\_01___Button.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\_01___Button.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\01 - Button.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\01 - Button.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\01 - Button.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\01 - Button\01 - Button\obj\Debug\01 - Button.pdb

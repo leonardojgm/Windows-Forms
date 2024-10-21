@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\bin\Debug\10 - ComboBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\bin\Debug\10 - ComboBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\bin\Debug\10 - ComboBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\_10___ComboBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\_10___ComboBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\10 - ComboBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\10 - ComboBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\10 - ComboBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\10 - ComboBox\10 - ComboBox\obj\Debug\10 - ComboBox.pdb

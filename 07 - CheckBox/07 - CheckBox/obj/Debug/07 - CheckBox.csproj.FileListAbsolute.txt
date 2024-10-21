@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\bin\Debug\07 - CheckBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\bin\Debug\07 - CheckBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\bin\Debug\07 - CheckBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\_07___CheckBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\_07___CheckBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\07 - CheckBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\07 - CheckBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\07 - CheckBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\07 - CheckBox\07 - CheckBox\obj\Debug\07 - CheckBox.pdb

@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\bin\Debug\20 - Relogio.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\bin\Debug\20 - Relogio.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\bin\Debug\20 - Relogio.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\_20___Relogio.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\_20___Relogio.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\20 - Relogio.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\20 - Relogio.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\20 - Relogio.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\20 - Relogio\20 - Relogio\obj\Debug\20 - Relogio.pdb

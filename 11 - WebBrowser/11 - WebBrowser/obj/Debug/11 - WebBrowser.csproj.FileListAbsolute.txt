@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\bin\Debug\11 - WebBrowser.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\bin\Debug\11 - WebBrowser.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\bin\Debug\11 - WebBrowser.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\11 - WebBrowser.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\_11___WebBrowser.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\_11___WebBrowser.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\11 - WebBrowser.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\11 - WebBrowser.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\11 - WebBrowser.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\11 - WebBrowser\11 - WebBrowser\obj\Debug\11 - WebBrowser.pdb

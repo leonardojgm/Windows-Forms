@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\bin\Debug\13 - ListBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\bin\Debug\13 - ListBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\bin\Debug\13 - ListBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\_13___ListBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\_13___ListBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\13 - ListBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\13 - ListBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\13 - ListBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\13 - ListBox\13 - ListBox\obj\Debug\13 - ListBox.pdb

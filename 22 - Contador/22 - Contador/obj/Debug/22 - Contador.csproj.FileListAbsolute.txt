@@ -1,0 +1,10 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\bin\Debug\22 - Contador.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\bin\Debug\22 - Contador.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\bin\Debug\22 - Contador.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\22 - Contador.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\_22___Contador.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\_22___Contador.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\22 - Contador.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\22 - Contador.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\22 - Contador.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\22 - Contador\22 - Contador\obj\Debug\22 - Contador.pdb

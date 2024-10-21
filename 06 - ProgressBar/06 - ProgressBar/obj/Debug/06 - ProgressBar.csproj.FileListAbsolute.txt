@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\bin\Debug\06 - ProgressBar.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\bin\Debug\06 - ProgressBar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\bin\Debug\06 - ProgressBar.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\_06___ProgressBar.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\_06___ProgressBar.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\06 - ProgressBar.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\06 - ProgressBar.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\06 - ProgressBar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\06 - ProgressBar\06 - ProgressBar\obj\Debug\06 - ProgressBar.pdb

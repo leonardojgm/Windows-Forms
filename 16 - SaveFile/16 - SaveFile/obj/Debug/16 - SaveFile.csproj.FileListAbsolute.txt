@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\bin\Debug\16 - SaveFile.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\bin\Debug\16 - SaveFile.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\bin\Debug\16 - SaveFile.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\_16___SaveFile.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\_16___SaveFile.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\16 - SaveFile.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\16 - SaveFile.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\16 - SaveFile.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\16 - SaveFile\16 - SaveFile\obj\Debug\16 - SaveFile.pdb

@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\bin\Debug\18 - ColorDialog.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\bin\Debug\18 - ColorDialog.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\bin\Debug\18 - ColorDialog.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\_18___ColorDialog.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\_18___ColorDialog.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\18 - ColorDialog.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\18 - ColorDialog.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\18 - ColorDialog.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\18 - ColorDialog\18 - ColorDialog\obj\Debug\18 - ColorDialog.pdb

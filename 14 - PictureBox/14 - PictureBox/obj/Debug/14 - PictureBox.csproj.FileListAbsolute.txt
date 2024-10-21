@@ -1,0 +1,9 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\bin\Debug\14 - PictureBox.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\bin\Debug\14 - PictureBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\bin\Debug\14 - PictureBox.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\_14___PictureBox.Form1.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\_14___PictureBox.Properties.Resources.resources
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\14 - PictureBox.csproj.GenerateResource.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\14 - PictureBox.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\14 - PictureBox.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\Windows Forms\14 - PictureBox\14 - PictureBox\obj\Debug\14 - PictureBox.pdb
